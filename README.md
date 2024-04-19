@@ -12,3 +12,7 @@ The sign-in process is initiated by navigating to the login page, where users ar
 After the password is verified, access is granted to the Home Page, where a variety of features can be accessed through buttons. These features, including 'Calendar,' 'Expense Tracker,' 'Study Tracker,' 'Edit Profile,' 'To-Do List,' 'Journal,' 'Custom Project,' and "Login Page" can be navigated by the user with ease.  
 
 ![2024-04-19 (1)](https://github.com/PawaniHasara/Productivity-Tracker-App/assets/143738397/69ac109f-d9e0-4a91-8491-9ca3257eccc8)
+
+3. Calendar and Digital Clock
+
+The "Calendar with Digital Clock" feature is designed to offer users a visual representation of a calendar alongside a digital clock. This allows users to navigate through months, change years, and view the current date and time. When the 'Calendar' button on the Home Page is clicked, the calendar along with a digital clock displaying the current time will be displayed. The previous months can be accessed by pressing the '<' button next to the month name, while the '>' button on the other side allows navigation to the next month. Users can select a desired year from the 'Change year' drop-down box.
