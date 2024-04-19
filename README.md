@@ -34,3 +34,9 @@ This feature is designed to help users manage and keep track of their monthly ex
 6. Journal
 
 The journal feature provides the user with the opportunity to record and store their activities. It enables the user to analyze and make improvements in their daily routines necessarily. New records can be added by the user when needed and can be edited later. JAVA date and time feature allows the user to make the records with the precise timestamp automatically which keeps the user at ease with the requirement of finding the real date and time when making the records.
+
+![2024-04-19 (8)](https://github.com/PawaniHasara/Productivity-Tracker-App/assets/143738397/5234da0f-02ac-4837-9939-6351fcbb9490)
+
+7. Study Tracker Feature
+
+The study tracker feature is a timer. You can provide a time for a particular activity and the time duration is calculated. You can enter the subject, start time, and end time. Once you hit the finish button it shows you the duration you studied. 
