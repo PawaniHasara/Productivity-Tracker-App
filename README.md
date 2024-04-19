@@ -16,3 +16,9 @@ After the password is verified, access is granted to the Home Page, where a vari
 3. Calendar and Digital Clock
 
 The "Calendar with Digital Clock" feature is designed to offer users a visual representation of a calendar alongside a digital clock. This allows users to navigate through months, change years, and view the current date and time. When the 'Calendar' button on the Home Page is clicked, the calendar along with a digital clock displaying the current time will be displayed. The previous months can be accessed by pressing the '<' button next to the month name, while the '>' button on the other side allows navigation to the next month. Users can select a desired year from the 'Change year' drop-down box.
+
+![2024-04-19 (5)](https://github.com/PawaniHasara/Productivity-Tracker-App/assets/143738397/414e4dad-517f-44e2-91cf-d3aca996fa21)
+
+4. To-Do List
+
+Through the To-do list feature, the user can plan their work. They can list the activities and tick them off once completed. They can insert as many activities as possible here and remove all the activities that are marked as complete at once. Once the 'To Do List' button is opened from the Home Page, then you are directed to the 'To Do List' window. Then you can press the 'Add Task' button to add as many tasks as possible. Added tasks are displayed in red. Once the task is done you can click the 'Done' button at the end of each task. Once you click ‘Done’ the tasks turn green. You can remove the completed tasks by clicking the button 'Clear finished tasks'. Once this is done the remaining tasks are only displayed on the list. If you need to go to the Home Page, click the 'Exit' button at the end of the page.
