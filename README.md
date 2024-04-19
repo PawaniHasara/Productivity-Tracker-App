@@ -40,3 +40,9 @@ The journal feature provides the user with the opportunity to record and store t
 7. Study Tracker Feature
 
 The study tracker feature is a timer. You can provide a time for a particular activity and the time duration is calculated. You can enter the subject, start time, and end time. Once you hit the finish button it shows you the duration you studied. 
+
+![2024-04-19 (9)](https://github.com/PawaniHasara/Productivity-Tracker-App/assets/143738397/0cbc55e3-1bc4-4af1-903b-782f24d06b00)
+
+8. Add Custom Project
+
+This feature consists of text fields, text areas, combo boxes, and a button for adding customer projects. Users can input details such as task name, start date, due date, comments, priority, status, reminder time, and attachments. The code establishes event handling for the "Add Project" button, triggering the creation of a Project object with the entered details. The projects are stored in a list, and a message dialog informs the user of a successful project addition.
