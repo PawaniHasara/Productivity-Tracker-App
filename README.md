@@ -29,4 +29,8 @@ Through the To-do list feature, the user can plan their work. They can list the 
 
 This feature is designed to help users manage and keep track of their monthly expenses. It provides a user-friendly interface that allows users to input details of their expenses, view recorded expenses, and edit existing entries. When the 'Expense Tracker' button on the home page is clicked, the 'Monthly Expenses Tracker' window is opened. In this window, information for an expense, such as Year, Month, Amount, etc., can be filled in. After pressing the 'Add Expense' button, the expense is successfully added, and a confirmation message is displayed in the window. Subsequently, 'View Expenses' can be pressed to display a list of monthly expenses. The 'Edit Expenses' button allows individual expense details to be edited one by one.
 
+![2024-04-19 (7)](https://github.com/PawaniHasara/Productivity-Tracker-App/assets/143738397/9eff900e-d9b2-43dd-bf13-dbc4ffe2438b)
 
+6. Journal
+
+The journal feature provides the user with the opportunity to record and store their activities. It enables the user to analyze and make improvements in their daily routines necessarily. New records can be added by the user when needed and can be edited later. JAVA date and time feature allows the user to make the records with the precise timestamp automatically which keeps the user at ease with the requirement of finding the real date and time when making the records.
