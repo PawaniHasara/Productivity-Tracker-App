@@ -46,3 +46,9 @@ The study tracker feature is a timer. You can provide a time for a particular ac
 8. Add Custom Project
 
 This feature consists of text fields, text areas, combo boxes, and a button for adding customer projects. Users can input details such as task name, start date, due date, comments, priority, status, reminder time, and attachments. The code establishes event handling for the "Add Project" button, triggering the creation of a Project object with the entered details. The projects are stored in a list, and a message dialog informs the user of a successful project addition.
+
+![2024-04-19 (11)](https://github.com/PawaniHasara/Productivity-Tracker-App/assets/143738397/783f720b-2fd1-4f78-a806-c6dc1b0deb70)
+
+9. Edit Profile Feature
+
+Users can effortlessly customize their profiles by updating their profile picture, name, email address, and password. The "Browse Image" button simplifies profile picture selection, while the "Save" button ensures that changes are applied seamlessly. The "Exit" button provides users with the flexibility to leave the editing section without saving. Additionally, users can control their notification settings by enabling or disabling specific notifications based on their preferences. This comprehensive profile editing feature empowers users to maintain a personalized and secure online presence.
