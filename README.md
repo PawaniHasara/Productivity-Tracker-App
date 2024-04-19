@@ -22,3 +22,11 @@ The "Calendar with Digital Clock" feature is designed to offer users a visual re
 4. To-Do List
 
 Through the To-do list feature, the user can plan their work. They can list the activities and tick them off once completed. They can insert as many activities as possible here and remove all the activities that are marked as complete at once. Once the 'To Do List' button is opened from the Home Page, then you are directed to the 'To Do List' window. Then you can press the 'Add Task' button to add as many tasks as possible. Added tasks are displayed in red. Once the task is done you can click the 'Done' button at the end of each task. Once you click ‘Done’ the tasks turn green. You can remove the completed tasks by clicking the button 'Clear finished tasks'. Once this is done the remaining tasks are only displayed on the list. If you need to go to the Home Page, click the 'Exit' button at the end of the page.
+
+![2024-04-19 (6)](https://github.com/PawaniHasara/Productivity-Tracker-App/assets/143738397/cbf6aaa9-daf1-4d1e-a6d2-0b451e189517)
+
+5. Expense Tracker
+
+This feature is designed to help users manage and keep track of their monthly expenses. It provides a user-friendly interface that allows users to input details of their expenses, view recorded expenses, and edit existing entries. When the 'Expense Tracker' button on the home page is clicked, the 'Monthly Expenses Tracker' window is opened. In this window, information for an expense, such as Year, Month, Amount, etc., can be filled in. After pressing the 'Add Expense' button, the expense is successfully added, and a confirmation message is displayed in the window. Subsequently, 'View Expenses' can be pressed to display a list of monthly expenses. The 'Edit Expenses' button allows individual expense details to be edited one by one.
+
+
