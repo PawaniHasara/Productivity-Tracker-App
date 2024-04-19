@@ -52,3 +52,5 @@ This feature consists of text fields, text areas, combo boxes, and a button for 
 9. Edit Profile Feature
 
 Users can effortlessly customize their profiles by updating their profile picture, name, email address, and password. The "Browse Image" button simplifies profile picture selection, while the "Save" button ensures that changes are applied seamlessly. The "Exit" button provides users with the flexibility to leave the editing section without saving. Additionally, users can control their notification settings by enabling or disabling specific notifications based on their preferences. This comprehensive profile editing feature empowers users to maintain a personalized and secure online presence.
+
+![2024-04-19 (12)](https://github.com/PawaniHasara/Productivity-Tracker-App/assets/143738397/cc079f0d-0008-4539-b4d8-f6cbb6cb4fb5)
